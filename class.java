@@ -26,7 +26,7 @@ public class ClassApp {
         //        }
         test();
     }
-
+//
     private static void test() throws ClassNotFoundException {
         Set<Class<?>> classes = Sets.newHashSet();
         //        findClassesByFile("com.cainiao.was.op.client.wasbase", "/Users/yollock/work-zone/was/was-op/was-op-adapter/target/classes/com/cainiao/was/op/client/wasbase", classes);
